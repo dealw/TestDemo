@@ -1,0 +1,4 @@
+# Project exclude paths
+/ElasticSearchTest/target/
+/SpelTest/target/
+/TestTemplate/target/
